@@ -88,3 +88,11 @@ This project enhanced my understanding of **Image Captioning systems** and provi
 
 This project is created for educational and internship purposes.
 
+---
+## Author
+
+**Ashutosh Ramesh Wabale**
+
+
+
+
