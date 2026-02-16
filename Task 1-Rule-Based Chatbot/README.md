@@ -87,3 +87,9 @@ This project provided practical experience in developing a **rule-based chatbot*
 
 This project is created for educational and internship purposes.
 
+---
+## Author
+
+**Ashutosh Ramesh Wabale**
+
+
