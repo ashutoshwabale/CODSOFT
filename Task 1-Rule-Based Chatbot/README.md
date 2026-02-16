@@ -8,8 +8,6 @@ The chatbot is designed using **rule-based logic**, where responses are generate
 ---
 ## 🖼️ Image Preview
 
-### Sample Input Image
-![Input Image](input.jpg)
 
 ### Generated Caption Output
 ![Output Screenshot](output.jpg)
@@ -88,3 +86,4 @@ This project provided practical experience in developing a **rule-based chatbot*
 ## 📜 License
 
 This project is created for educational and internship purposes.
+
