@@ -9,8 +9,6 @@ The goal of this task is to generate **meaningful textual descriptions (captions
 
 ## 🖼️ Image Preview
 
-### Sample Input Image
-![Input Image](input.jpg)
 
 ### Generated Caption Output
 ![Output Screenshot](output.jpg)
@@ -89,3 +87,4 @@ This project enhanced my understanding of **Image Captioning systems** and provi
 ## 📜 License
 
 This project is created for educational and internship purposes.
+
