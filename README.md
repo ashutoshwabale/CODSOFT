@@ -108,4 +108,11 @@ This internship helped me gain practical exposure to **Artificial Intelligence c
 
 
 ## 📜 License
+
 This repository is for educational and learning purposes.
+
+---
+## Author
+
+**Ashutosh Ramesh Wabale**
+
