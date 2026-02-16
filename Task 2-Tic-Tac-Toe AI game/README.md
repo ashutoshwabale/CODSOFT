@@ -9,8 +9,6 @@ The project implements a **Tic Tac Toe game** where a human player competes agai
 
 ## 🖼️ Image Preview
 
-### Sample Input Image
-![Input Image](input.jpg)
 
 ### Generated Caption Output
 ![Output Screenshot](output.jpg)
@@ -86,3 +84,4 @@ This project strengthened my understanding of **AI-based decision making** and h
 ## 📜 License
 
 This project is created for educational and internship purposes.
+
